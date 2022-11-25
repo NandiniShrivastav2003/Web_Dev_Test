@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(193 188 188 / 84%);
+}
+
+.box button {
+    width: 24px;
+    height: 21px;
+    border-radius: 50%;
+}
+
+.container {
+    text-align: center;
+    border: 2px solid black;
+    padding-bottom: 12px;
+    width: 80%;
+    margin-left: 73px;
+    margin-top: 63px;
+}
+
+.box {
+    border: 2px solid black;
+    text-align: center;
+    width: 31%;
+    margin-left: 431px;
+    margin-top: 11px;
+    padding: 12px;
+
+}
+
+.set {
+    color: rgb(121, 100, 212);
+}
+
+
+#box2 {
+    padding: 20px;
+    height: 400px;
+    width: 74vw;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 82px;
+    border: 1px solid black;
+
+    margin-left: 19vw;
+    margin-top: 2vh;
+
+}
